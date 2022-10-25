@@ -1,0 +1,36 @@
+.div_container {
+    display:flex
+}
+
+.aside_panel {
+    flex: auto
+} 
+
+.div_graph {
+    flex: auto
+} 
+
+#cont1 {
+    font-size:large;
+    color:indigo;
+}
+
+#cont2 {
+    font-size:large;
+    color:firebrick;
+}
+
+#cont3 {
+    font-size:large;
+    color:red;
+}
+
+#cont4 {
+    font-size:large;
+    color:midnightblue;
+}
+
+#cont5 {
+    font-size:large;
+    color:rebeccapurple;
+}
